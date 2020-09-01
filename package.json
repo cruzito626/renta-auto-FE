@@ -1,5 +1,5 @@
 {
-  "name": "renta-auto-web",
+  "name": "ristorante-con-fusion",
   "version": "1.0.0",
   "description": "The objective of this project is to be able to rent cars online",
   "main": "index.js",
@@ -10,21 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cruzito626/renta-auto-web.git"
+    "url": "git+https://github.com/cruzito626/ristorante-con-fusion"
   },
-  "keywords": [
-    "renta",
-    "renta-auto",
-    "renta-autos",
-    "autos",
-    "auto"
-  ],
+  "keywords": [],
   "author": "Edson Alexis Cruz Carballo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cruzito626/renta-auto-web/issues"
+    "url": "https://github.com/cruzito626/ristorante-con-fusionissues"
   },
-  "homepage": "https://github.com/cruzito626/renta-auto-web#readme",
+  "homepage": "https://github.com/cruzito626/ristorante-con-fusion#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
   },
